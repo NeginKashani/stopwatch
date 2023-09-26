@@ -1,7 +1,7 @@
 # stopwatch
 
 
-- [Demo Project](![stopwatch](https://github.com/NeginKashani/stopwatch/assets/109550062/e681f734-d6aa-4c36-ac3b-4d873c22bb90)
+- [Demo Project](https://neginkashani.github.io/stopwatch/)
 
 
 - Developed by Negin Kashani
