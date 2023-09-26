@@ -1,5 +1,5 @@
 # stopwatch
-
+![stopwatch](https://github.com/NeginKashani/stopwatch/assets/109550062/8516cb4f-a4d2-4731-8556-2070707923e6)
 
 - [Demo Project](https://neginkashani.github.io/stopwatch/)
 
